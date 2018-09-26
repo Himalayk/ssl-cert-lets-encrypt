@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile profileName="wed-7lbsfdsfvc-webapp - Web Deploy" publishMethod="MSDeploy" publishUrl="wed-7lbsfdsfvc-webapp.scm.azurewebsites.net:443" msdeploySite="wed-7lbsfdsfvc-webapp" userName="$wed-7lbsfdsfvc-webapp" userPWD="Ej7C0gg0L1QuqzX83mtcXxTCzsken0rqwlcd59LljK3aZZMLTLfhlJATqosC" destinationAppUrl="http://wed-7lbsfdsfvc-webapp.azurewebsites.net" SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com" webSystem="WebSites">
+    <databases />
+  </publishProfile>
+  <publishProfile profileName="wed-7lbsfdsfvc-webapp - FTP" publishMethod="FTP" publishUrl="ftp://waws-prod-blu-095.ftp.azurewebsites.windows.net/site/wwwroot" ftpPassiveMode="True" userName="wed-7lbsfdsfvc-webapp\$wed-7lbsfdsfvc-webapp" userPWD="Ej7C0gg0L1QuqzX83mtcXxTCzsken0rqwlcd59LljK3aZZMLTLfhlJATqosC" destinationAppUrl="http://wed-7lbsfdsfvc-webapp.azurewebsites.net" SQLServerDBConnectionString="" mySQLDBConnectionString="" hostingProviderForumLink="" controlPanelLink="http://windows.azure.com" webSystem="WebSites">
+    <databases />
+  </publishProfile>
+</publishData>

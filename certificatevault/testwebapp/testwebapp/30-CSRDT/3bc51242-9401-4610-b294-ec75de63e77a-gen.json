@@ -1,0 +1,18 @@
+{
+  "$type": "ACMESharp.PKI.CsrDetails, ACMESharp",
+  "CommonName": "wed.azurecompliancesamples.online",
+  "AlternativeNames": null,
+  "Country": null,
+  "StateOrProvince": null,
+  "Locality": null,
+  "Organization": null,
+  "OrganizationUnit": null,
+  "Description": null,
+  "Surname": null,
+  "GivenName": null,
+  "Initials": null,
+  "Title": null,
+  "SerialNumber": null,
+  "UniqueIdentifier": null,
+  "Email": null
+}
